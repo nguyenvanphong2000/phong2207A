@@ -1,0 +1,41 @@
+body{
+    margin: 0 auto;
+    max-width: 400px;
+    padding: 0px;
+}
+
+#header h1{
+    padding-top: 10px;
+    height: 50px;
+}
+h3{
+    padding-top: 30px;
+    margin-bottom: 50px;
+}
+input[type=text]{
+    height: 30px;
+}
+input[type=text][name=lastname]{
+    margin-left: 56px;
+}
+div .left{
+    margin-left: 5px;
+}
+div .right{
+    margin-left: 165px;
+}
+input{
+
+}
+input[type=text][name=email]{
+    width: 100%;
+}
+input[type=text][name=phone]{
+    width: 100%;
+}
+#sent{
+    padding-top: 30px;
+.em{
+    padding-bottom: 2px;
+    border-bottom:2px ;
+}
