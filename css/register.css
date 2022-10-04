@@ -1,0 +1,50 @@
+body{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 0px;
+}
+#header {
+    text-align: center;
+    padding-top: 20px;
+    border:20px #ced4da;
+}
+#header .container{
+    width: 200px;
+    background: #ced4da;
+}
+#header .login{
+    float: left;
+    padding-left: 20px;
+}
+#header .res{
+    padding-left: 90px;
+}
+#icon .ic{
+    padding: 15px 0px 30px 60px;
+}
+#icon .ic ul{
+    list-style: none;
+}
+#icon .ic ul li{
+    float: left;
+}
+#icon .ic ul li i{
+    padding-left: 30px;
+}
+#main .container {
+    padding: 25px;
+}
+#main .tk{
+    padding-left: 15px;
+    border-bottom:solid 2px #6c757d;
+}
+#main .pas{
+    padding: 20px 0px 0px 15px;
+    border-bottom:solid 2px #6c757d;
+}
+#footer .nut{
+    padding: 0px 0px 15px 20px;
+}
+#footer .lg{
+    padding-left: 40%;
+}
