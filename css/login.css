@@ -10,6 +10,7 @@ body{
 #header .container{
     width: 200px;
    padding-left: 60px;
+
 }
 #header .login{
     float: left;
