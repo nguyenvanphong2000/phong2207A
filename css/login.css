@@ -6,15 +6,15 @@ body{
 #header {
     text-align: center;
     padding-top: 20px;
-    border:20px #ced4da;
 }
 #header .container{
     width: 200px;
-    background: #ced4da;
+   padding-left: 60px;
 }
 #header .login{
     float: left;
-    padding-left: 0px;
+    padding-left: 100px;
+    padding-top: 1px;
 }
 #header .res{
     padding-left: 100px;
